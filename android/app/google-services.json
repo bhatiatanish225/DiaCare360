@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992187552790",
+    "project_id": "diacare360",
+    "storage_bucket": "diacare360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992187552790:android:7b4f30186edd2dbb495137",
+        "android_client_info": {
+          "package_name": "com.example.diacare360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezrGsoqBNRpDi0RbhVJhwD16NbbRChqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
